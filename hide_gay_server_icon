@@ -1,0 +1,3 @@
+[class*="rowGuildName-"] [class^="flowerStarContainer-"] {
+      display: none;
+}
